@@ -24,3 +24,8 @@ el codigo constaba de 3 funciones que modificaban un numero inicial
 - faltas de ';' en linea 17 y 23
 - falta de '&' en linea 12
 - falta de libreria stdio
+
+# punteros
+el valor del puntero y la direccion de memoria de la variable son las mismas puestos que estan marcando el mismo lugar
+a su vez la direccion de memoria del puntero apunta directamente al valor de la variable
+
